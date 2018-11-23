@@ -3,7 +3,10 @@
 # 官網
 https://github.com/ReactiveX/RxSwift
 
-# 簡中版
+# GitBook
+https://victorqi.gitbooks.io/rxswift/content/
+
+# GitBook簡中版
 https://beeth0ven.github.io/RxSwift-Chinese-Documentation/
 
 # 教學文章
